@@ -1,4 +1,4 @@
-- hosts: webserver
+- hosts: web
   user: root
   become: true
   tasks:
